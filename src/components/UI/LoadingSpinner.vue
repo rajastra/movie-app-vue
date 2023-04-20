@@ -10,7 +10,7 @@
   margin-top: 10rem;
   border-radius: 50%;
   border: 4px solid #ccc;
-  border-top-color: #333;
+  border-top-color: var(--color-primary);
   animation: spinner 0.6s linear infinite;
 }
 </style>
