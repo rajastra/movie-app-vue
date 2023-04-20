@@ -73,8 +73,8 @@ const props = defineProps({
   margin: 0 0 10px 0;
 }
 
-.movie-item .movie-item__content h3 a {
-  color: #db0000;
+.movie-item .movie-item__content h3 {
+  color: var(--color-primary);
   text-decoration: none;
 }
 
